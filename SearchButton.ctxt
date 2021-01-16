@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=SearchButton
+comment0.text=\r\n\ This\ class\ is\ a\ button\ that\ performs\ actions\ when\ players\ are\ searched.\r\n\ \r\n\ @author\ Felix\ Liao\r\n\r\n\ @version\ 13\ March\ 26,\ 2020\r\n\ \r\n
+comment1.params=name\ player
+comment1.target=SearchButton(java.lang.String,\ Player)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MatchButtons\r\n
+comment2.params=
+comment2.target=Player\ getPlayer()
+comment2.text=\r\n\ Gets\ the\ Player\ object\ of\ this\ object\r\n\ \r\n\ @return\ the\ player\ object\r\n\ \r\n
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=
+comment4.target=java.lang.String\ getButtonName()
+comment4.text=\r\n\ Gets\ the\ name\ of\ this\ button\r\n\ \r\n\ @return\ the\ name\ of\ this\ button\r\n
+comment5.params=
+comment5.target=boolean\ getSelected()
+comment5.text=\r\n\ Gets\ the\ status\ of\ the\ button\ to\ determine\ whether\ it\ is\ selected\ or\ not\r\n\ \r\n\ @return\ the\ status\ of\ the\ button\r\n\ \r\n
+numComments=6

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MatchBox
+comment0.text=\r\n\ This\ is\ the\ box\ that\ appears\ when\ a\ match\ is\ about\ to\ be\ entered\r\n\ \r\n\ @author\ Felix\ Liao\r\n\r\n\ @version\ 13\ March\ 26,\ 2020\r\n\ \r\n
+comment1.params=name\ num
+comment1.target=MatchBox(java.lang.String,\ int)
+comment1.text=\r\n\ The\ constructors\ of\ objects\ in\ class\ MatchBox\r\n\ \r\n\ @param\ name\ the\ format\ of\ the\ match\ (singles\ or\ doubles)\r\n\ \r\n\ @param\ num\ the\ size\ of\ each\ team\ of\ this\ match\r\n\ \r\n
+comment2.params=
+comment2.target=void\ addPanels()
+comment2.text=\r\n\ Adds\ content\ to\ this\ object\r\n\ \r\n
+comment3.params=name1\ name2
+comment3.target=void\ changeLabel(java.lang.String,\ java.lang.String)
+comment3.text=\r\n\ Changes\ the\ label\ of\ in\ this\ object\r\n\ \r\n\ @param\ name1\ the\ name\ of\ the\ first\ team\r\n\ @param\ name2\ the\ name\ of\ the\ second\ team\r\n
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=5

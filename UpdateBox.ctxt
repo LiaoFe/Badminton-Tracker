@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=UpdateBox
+comment0.text=\r\n\ This\ software\ is\ designed\ for\ organizing\ tryouts\ for\ any\ racket\ sports.\ Any\ sport\ requiring\ points\ and\ has\ a\ singles\ and\ doubles\ option\ can\ also\ use\ this\ tryout\ manager.\r\n\ \r\n\ @author\ Felix\ Liao\r\n\r\n\ @version\ 13\ March\ 26,\ 2020\r\n\ \r\n
+comment1.params=
+comment1.target=UpdateBox()
+comment1.text=\r\n\ The\ constructors\ of\ object\ is\ the\ class\ UpdateBox\r\n\ \r\n
+comment2.params=
+comment2.target=void\ addPanels()
+comment2.text=\r\n\ Adds\ the\ content\ to\ this\ object\ \r\n\ \r\n
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=4

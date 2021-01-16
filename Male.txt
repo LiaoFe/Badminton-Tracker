@@ -1,0 +1,23 @@
+start
+false
+Dave
+17
+12
+1
+1
+42
+Meraki
+0male.txt
+C:\Users\felix\Downloads\GUI PROJECt\Progressing\FelixLiaoFinal\image.JPEG
+start
+false
+Felix
+17
+6
+0
+1
+21
+Meraki
+
+playerIcon.PNG
+

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ImagePanel
+comment0.text=\r\n\ This\ is\ the\ image\ panel\ that\ appears\ when\ clicking\ a\ PlayerButton.\ The\ user\ will\ see\ a\ picture\ of\ the\ player\ if\ they\ upload\ one,\ or\ the\ default\ picture\ that\ is\ set.\r\n\ \r\n\ @author\ Felix\ Liao\r\n\r\n\ @version\ 13\ March\ 26,\ 2020\r\n\ \r\n
+comment1.params=fileName
+comment1.target=ImagePanel(java.lang.String)
+comment1.text=\r\n\ The\ constructor\ for\ objects\ in\ class\ ImagePanel\r\n\ \r\n\ @param\ fileName\r\n
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment3.params=file
+comment3.target=java.lang.String\ changeImage(java.io.File)
+comment3.text=\r\n\ Sets\ the\ image\ of\ this\ object\ by\ reading\ a\ file\r\n\ \r\n\ @param\ file\ the\ file\ with\ the\ image\ being\ opened\r\n
+numComments=4

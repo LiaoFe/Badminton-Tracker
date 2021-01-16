@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=OptionBoxes
+comment0.text=\r\n\ This\ is\ a\ degualt\ option\ pane\ that\ all\ my\ classes\ will\ use.\ They\ will\ all\ need\ a\ mainPanel,\ confirmButton\ and\ exitButton\r\n\ \r\n\ @author\ Felix\ Liao\r\n\r\n\ @version\ 13\ March\ 26,\ 2020\r\n\ \r\n
+comment1.params=
+comment1.target=OptionBoxes()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ OptionBoxes\r\n
+numComments=2

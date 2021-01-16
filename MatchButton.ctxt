@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MatchButton
+comment0.text=\r\n\ This\ is\ a\ button\ that\ appears\ when\ a\ player\ is\ searched\ for\ a\ match.\ This\ button\ tells\ which\ players\ are\ selected\ for\ a\ match\r\n\ \r\n\ @author\ Felix\ Liao\r\n\r\n\ @version\ 13\ March\ 26,\ 2020\r\n\ \r\n
+comment1.params=name
+comment1.target=MatchButton(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MatchButtons\r\n
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=
+comment3.target=void\ deselect()
+comment3.text=\r\n\ Deselects\ this\ button\ by\ setting\ isSelected\ to\ false\r\n\ \r\n
+comment4.params=
+comment4.target=void\ select()
+comment4.text=\r\n\ Selects\ this\ button\ by\ setting\ isSelected\ to\ true\r\n\ \r\n
+numComments=5

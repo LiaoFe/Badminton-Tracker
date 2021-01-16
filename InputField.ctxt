@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=InputField
+comment0.text=\r\n\ This\ class\ is\ used\ in\ the\ class\ GamePanel\ as\ a\ way\ to\ input\ fields.\ \r\n\ \r\n\ @author\ Felix\ Liao\r\n\r\n\ @version\ 13\ March\ 26,\ 2020\r\n\ \r\n
+comment1.params=textLabel
+comment1.target=InputField(java.lang.String)
+comment1.text=\r\n\ Creates\ an\ object\ that\ has\ a\ JLabel\ and\ a\ JTextField\r\n\ \r\n\ @param\ textLabel\ the\ name\ of\ this\ InputField\r\n\ \r\n
+comment2.params=
+comment2.target=void\ resetTextField()
+comment2.text=\r\n\ Sets\ the\ text\ in\ this\ object's\ textField\ to\ an\ empty\ string\r\n
+comment3.params=
+comment3.target=java.lang.String\ getTextField()
+comment3.text=\r\n\ Gets\ the\ text\ in\ this\ object's\ textField\ to\ the\ parameter\r\n\ \r\n@return\ the\ text\ in\ this\ object's\ textField\r\n
+numComments=4

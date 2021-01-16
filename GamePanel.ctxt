@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=GamePanel
+comment0.text=\r\n\ This\ class\ is\ the\ main\ panel\ of\ the\ program.\ PlayerButtons\ are\ displayed\ here\ and\ the\ action\ buttons\ are\ added\ here.\ This\ is\ the\ program's\ main\ interface\ panel.\r\n\ \r\n\ @author\ Felix\ Liao\r\n\r\n\ @version\ 13\ March\ 26,\ 2020\r\n\ \r\n
+comment1.params=
+comment1.target=GamePanel()
+comment1.text=\r\n\ Creates\ an\ object\ GamePanel.\ This\ is\ the\ default\ constructor\r\n
+comment2.params=num
+comment2.target=void\ setGirls(int)
+comment2.text=\r\n\ Sets\ the\ total\ number\ of\ girls\ in\ this\ class\r\n\ \r\n\ @param\ num\ the\ number\ of\ girls\ in\ this\ class\r\n\ \r\n
+comment3.params=num
+comment3.target=void\ setBoys(int)
+comment3.text=\r\n\ Sets\ the\ total\ number\ of\ boys\ in\ this\ class\r\n\ \r\n\ @param\ num\ the\ number\ of\ boys\ in\ this\ class\r\n\ \r\n
+comment4.params=g
+comment4.target=void\ paintComponent(java.awt.Graphics)
+numComments=5

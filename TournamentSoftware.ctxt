@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TournamentSoftware
+comment0.text=\r\n\ This\ software\ is\ designed\ for\ organizing\ tryouts\ for\ any\ racket\ sports.\ Any\ sport\ requiring\ points\ and\ has\ a\ singles\ and\ doubles\ option\ can\ also\ use\ this\ tryout\ manager.\r\n\ \r\n\ @author\ Felix\ Liao\r\n\r\n\ @version\ 13\ March\ 26,\ 2020\r\n\ \r\n
+comment1.params=
+comment1.target=TournamentSoftware()
+comment1.text=\r\n\ Create\ the\ default\ constructor\ that\ will\ be\ created\ during\ main\ method\r\n\ \r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\r\n\ Create\ the\ tournament\ software\ object\ that\ launches\ the\ software\r\n\ @param\ args\r\n\ \r\n
+comment3.params=
+comment3.target=java.awt.CardLayout\ getLay()
+comment3.text=\r\n\ Gets\ the\ cardLayout\ of\ the\ object\r\n\ \r\n\ @return\ \ the\ cardLayout\ of\ the\ object\r\n
+comment4.params=
+comment4.target=java.awt.Container\ getCont()
+comment4.text=\r\n\ Gets\ the\ containter\ of\ the\ object\r\n\ \r\n\ @return\ the\ container\ of\ the\ object\r\n
+numComments=5
