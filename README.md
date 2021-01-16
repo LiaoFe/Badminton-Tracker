@@ -1,7 +1,7 @@
 # Badminton-Tracker
 Simple Badminton score tracking project to complement tournaments
 
-![menu] (https://discord.com/channels/799791678419632181/799791712993673236/799791765275541504)
-![interface](https://discord.com/channels/799791678419632181/799791712993673236/799792353661419572)
-![matchLayout] (https://discord.com/channels/799791678419632181/799791712993673236/799792714878419025)
-![exit] (https://discord.com/channels/799791678419632181/799791712993673236/799792852485799956)
+![menu](https://cdn.discordapp.com/attachments/799791712993673236/799791764999110666/unknown.png)
+![interface](https://cdn.discordapp.com/attachments/799791712993673236/799792353610432522/unknown.png)
+![matchLayout](https://cdn.discordapp.com/attachments/799791712993673236/799792714832674816/unknown.png)
+![exit](https://cdn.discordapp.com/attachments/799791712993673236/799792852237680670/unknown.png)
